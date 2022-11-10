@@ -1,0 +1,1 @@
+This module provides processors that can execute python code as part of an Inviwo network evaluation.
